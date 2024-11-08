@@ -7,4 +7,8 @@ header{
     border-bottom: solid 2px rgb(169, 52, 52);
     padding: 20pix;
     font-size: 32;
+    color: black;
+}
+section {
+    background: pink;
 }

@@ -1,4 +1,7 @@
 body{
     color: aquamarine;
-    background-color: aliceblue;
+    background-color: rgb(255, 255, 255);
+}
+header{
+    border: solid 2px rgb(46, 178, 196);
 }

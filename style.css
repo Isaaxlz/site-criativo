@@ -11,5 +11,6 @@ header{
 }
 section {
     background: pink;
+    padding-bottom: 80pix;
     padding-top: 80pix;
 }
